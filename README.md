@@ -56,6 +56,4 @@ Préparation
 Astuces
 La pâte de placali est un ingrédient assez difficile à trouver. Vous pouvez servir la sauce gombo avec de la semoule, du riz, des pommes de terre cuites à la vapeur ou de la purée de patates douces.
 
-Chaque jour,
-nos meilleures idées recettes
-dans votre boîte mail.
+ 
