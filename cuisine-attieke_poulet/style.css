@@ -1,0 +1,26 @@
+.container {
+    height: auto;
+    width: 95%;
+    background-color: rgb(139, 245, 157);
+    margin: 10px;
+    padding: 10px;
+}
+
+h1 {
+    margin-left: 50px;
+}
+
+.liste {
+
+    font-size: 1.4em;
+}
+
+.etape {
+    font-weight: bold;
+    font-size: 2em;
+    color: brown;
+}
+
+p {
+    font-size: 1.6em;
+}
