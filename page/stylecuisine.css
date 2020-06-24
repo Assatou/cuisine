@@ -1,0 +1,19 @@
+#banner1{
+    display: block;
+    width: 100%;
+    height: 100px;
+    background-color: aqua;
+}
+
+#principal {
+    background-image: url("RGRAS");
+    display: block ;
+    border: 5px solid ;
+}
+
+#footer {
+    display: block;
+    width: 100%;
+    height: 100px;
+    background-color: aqua;
+}
